@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+OpenIDE-Module: it.nowhereland.fractionalmetricsenabler
+OpenIDE-Module-Install: it/nowhereland/fractionalmetricsenabler/Installer.class
+OpenIDE-Module-Localizing-Bundle: it/nowhereland/fractionalmetricsenabler/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
